@@ -2,6 +2,6 @@
 {
    public class Class1
    {
-      public string Value { get; set; } = "Foo";
+      public string Value { get; set; } = "Foo1";
    }
 }
